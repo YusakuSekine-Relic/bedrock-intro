@@ -6,7 +6,7 @@
 ## setup
 1. git clone
 1. cd bedrock-intro
-1. pip install -r requirements.txt ← install libraries.
+1. pip3 install -r requirements.txt ← install libraries.
 1. cp src/.env.example src/.env
 1. setting .env file.
 1. python3 src/main.py
